@@ -1,6 +1,6 @@
 {
   "name": "glossary-wp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,8 @@
     "office-ui-fabric-react": "7.156.0",
     "react": "16.9.0",
     "react-bootstrap": "^1.6.1",
-    "react-dom": "16.9.0"
+    "react-dom": "16.9.0",
+    "react-tooltip": "^4.2.21"
   },
   "devDependencies": {
     "@microsoft/rush-stack-compiler-3.9": "0.4.37",
